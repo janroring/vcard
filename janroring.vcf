@@ -12,9 +12,9 @@ TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:
 URL;TYPE=Digital Business Card:
 URL:https://janroring.github.io
-URL;TYPE=Website:https://janroring.github.io
-URL;TYPE=Calendar:https://hackthebox.com
-URL;TYPE=Store:https://tryhackme.com
+URL;TYPE=Blog:https://janroring.github.io
+URL;TYPE=HackTheBox:https://app.hackthebox.com/profile/53619
+URL;TYPE=TryHackMe:https://tryhackme.com/p/jaro
 URL;TYPE=LinkedIn:https://linkedin.com/in/janroring
 URL;TYPE=GitHub:https://github.com/janroring
 URL;TYPE=Twitter:https://twitter.com/roringjan
