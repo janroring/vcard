@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Roring;Jan;;;
+FN:Jan Roring
+ORG:
+ADR;TYPE=WORK:
+TITLE:Senior Penetration Tester | IT Security Consultant
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:
+URL:https://janroring.github.io
+URL;TYPE=Website:https://janroring.github.io
+URL;TYPE=Calendar:https://hackthebox.com
+URL;TYPE=Store:https://tryhackme.com
+URL;TYPE=LinkedIn:https://linkedin.com/in/janroring
+URL;TYPE=GitHub:https://github.com/janroring
+URL;TYPE=Twitter:https://twitter.com/roringjan
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Penetration Testing | Red Teaming | CTFs | OSCP
+UID:EnBizCard-100797499
+END:VCARD
