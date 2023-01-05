@@ -10,8 +10,7 @@ TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:
-URL;TYPE=Digital Business Card:
-URL:https://janroring.github.io
+URL;TYPE=Digital Business Card:https://janroring.github.io/vcard/
 URL;TYPE=Blog:https://janroring.github.io
 URL;TYPE=HackTheBox:https://app.hackthebox.com/profile/53619
 URL;TYPE=TryHackMe:https://tryhackme.com/p/jaro
